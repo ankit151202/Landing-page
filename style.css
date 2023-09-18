@@ -87,6 +87,16 @@ nav ul li a:hover {
     text-align: center;
     text-transform: uppercase;
     color: #00eb75;
+    line-height: 2px;
+    gap: 20px;
+    padding: 10px;
+}
+.content p{
+    line-height: 20px;
+    margin-bottom: 15;
+} 
+a{
+    color: #1a8b5c;
 }
 h1 {
     font-size: 60px;
